@@ -1,0 +1,6 @@
+pipenv install pyTelegramBotAPI
+pipenv install numpy
+pipenv install keras
+pipenv install requests
+pipenv install tensorflow
+pipenv install Pillow
